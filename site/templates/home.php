@@ -1,15 +1,18 @@
 <?php snippet('header') ?>
 
-<?php $pics = page('pics')->children() ?>
+<!-- Number of images per page-->
+<?php $population = 5 ?>
+<?php $pics = page('pics')->children()->listed() ?>
+
+<?php $pagination = $pics->paginate($population) ?>
 
 
 <div class="container-fluid">
-	<div class="grid">
-
+	<div class="grid mt-5">
 		<!-- used to check if first for sizer -->
 		<?php $count = 1 ?>
 		
-		<?php foreach ($pics as $pic) : ?>
+		<?php foreach ($pagination as $pic) : ?>
 
 			<!-- check if double sized -->
 			<?php if ($pic->featured() != '') : ?>
@@ -45,7 +48,34 @@
 			
 			<?php $count++ ?> 
 		<?php endforeach ?>
-	</div>
+	</div><!-- end grid -->
+
+	<!-- Pagination -->
+	<?php if ($pagination->pagination()->hasPages()): ?>
+		<nav aria-label="...">
+			<ul class="pagination justify-content-center">
+
+				<!-- Previous page --> 
+				<li class="page-item <?= e($pagination->pagination()->hasPrevPage(), '', 'disabled') ?>">
+			      <a class="page-link" href="<?= $pagination->pagination()->prevPageURL() ?>" tabindex="-1" aria-disabled="true">‹ Previous</a>
+			    </li>
+		 
+			    <!-- center pages -->
+			    <?php foreach ($pagination->pagination()->range($population) as $r): ?>
+			    	<li class="page-item">
+			    		<a<?= $pagination->page() === $r ? ' aria-current="page"' : '' ?> class="page-link" href="<?= $pagination->pagination()->pageURL($r) ?>"><?= $r ?></a>
+			    	</li>
+			  	<?php endforeach ?>
+
+			  	<!-- next page--> 
+			  	<li class="page-item <?= e($pagination->pagination()->hasNextPage(), '', 'disabled') ?>">
+			      <a class="page-link" href="<?= $pagination->pagination()->nextPageURL() ?>" tabindex="-1" aria-disabled="true">Next ›</a>
+			    </li>
+
+			</ul>
+		</nav>
+	<?php endif ?>
+
 </div>
 
 <?php snippet('footer') ?>

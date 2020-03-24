@@ -22,6 +22,10 @@ fields:
     label: Double size?
     type: toggle
     width: 1/2
+  Tags: 
+    label: Tags
+    type: tags 
+    width: 1/2
   Cover: 
     label: Cover 
     type: files

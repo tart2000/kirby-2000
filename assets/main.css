@@ -8,7 +8,6 @@ body {
 }
 
 .grid-item-content {
-	padding: 24px 12px;
 	transition: 0.5s;
 } 
 .grid-item-content:hover {
@@ -43,27 +42,38 @@ hr {
 	margin-bottom: 50px;
 }
 
+.grid-item-content {
+		padding: 0px 0px 28px 0px;
+	}
 
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) { 
 	.grid-item-content {
-		padding: 12px 6px !important;
+		padding: 0px 6px 0px 6px;
+		margin-bottom: 22px;
+		margin-top: 22px;
 	}
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-
+	.grid-item-content {
+		padding: 18px 9px;
+	}
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-
+	.grid-item-content {
+		padding: 24px 12px;
+	}
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-
+	.grid-item-content {
+		padding: 0px 12px 42px 12px;
+	}
 }
 
 

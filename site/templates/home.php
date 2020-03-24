@@ -14,26 +14,18 @@
 		
 		<?php foreach ($pagination as $pic) : ?>
 
+			<?php $makebig = 'col-md-3' ?>
 			<!-- check if double sized -->
-			<?php if ($pic->featured() != '') : ?>
-				<?php if ($pic->featured() == true) : ?>
-					<?php $makebig = 'col-md-6'; ?>
-				<?php endif ?>
-				<?php if ($cover = $pic->cover()->toFile()) : ?>
-					<?php $thumb = $cover->thumb([
-						'width' => 800,
-						'quality' => 80
-					]) ?>
-				<?php endif ?>
-			<?php else : ?>
-				<!-- small image -->
-				<?php $makebig = 'col-md-3' ?>
-				<?php if ($cover = $pic->cover()->toFile()) : ?>
-					<?php $thumb = $cover->thumb([
-						'width' => 500,
-						'quality' => 80
-					]) ?>
-				<?php endif ?>
+			<?php if ($pic->featured()->toBool() === true) : ?>
+				<?php $makebig = 'col-md-6'; ?>
+			<?php endif ?>
+			
+			
+			<?php if ($cover = $pic->cover()->toFile()) : ?>
+				<?php $thumb = $cover->thumb([
+					'width' => 800,
+					'quality' => 80
+				]) ?>
 			<?php endif ?>
 
 			<div class="grid-sizer col-md-3"></div>

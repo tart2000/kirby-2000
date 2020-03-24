@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
 <!-- Number of images per page-->
-<?php $population = 5 ?>
+<?php $population = 10 ?>
 <?php $pics = page('pics')->children()->listed() ?>
 
 <?php $pagination = $pics->paginate($population) ?>
@@ -56,21 +56,25 @@
 			<ul class="pagination justify-content-center">
 
 				<!-- Previous page --> 
-				<li class="page-item <?= e($pagination->pagination()->hasPrevPage(), '', 'disabled') ?>">
-			      <a class="page-link" href="<?= $pagination->pagination()->prevPageURL() ?>" tabindex="-1" aria-disabled="true">‹ Previous</a>
-			    </li>
+				<?php if ($pagination->pagination()->hasPrevPage()) : ?>
+					<li class="page-item <?= e($pagination->pagination()->hasPrevPage(), '', 'disabled') ?>">
+				      <a class="page-link" href="<?= $pagination->pagination()->prevPageURL() ?>">‹ Previous</a>
+				    </li>
+				<?php endif ?>
 		 
 			    <!-- center pages -->
 			    <?php foreach ($pagination->pagination()->range($population) as $r): ?>
-			    	<li class="page-item">
-			    		<a<?= $pagination->page() === $r ? ' aria-current="page"' : '' ?> class="page-link" href="<?= $pagination->pagination()->pageURL($r) ?>"><?= $r ?></a>
+			    	<li class="page-item <?= $pagination->pagination()->page() === $r ? 'active' : '' ?>">
+			    		<a class="page-link" href="<?= $pagination->pagination()->pageURL($r) ?>"><?= $r ?></a>
 			    	</li>
 			  	<?php endforeach ?>
 
 			  	<!-- next page--> 
-			  	<li class="page-item <?= e($pagination->pagination()->hasNextPage(), '', 'disabled') ?>">
-			      <a class="page-link" href="<?= $pagination->pagination()->nextPageURL() ?>" tabindex="-1" aria-disabled="true">Next ›</a>
-			    </li>
+			  	<?php if ($pagination->pagination()->hasNextPage()) : ?>
+				  	<li class="page-item <?= e($pagination->pagination()->hasNextPage(), '', 'disabled') ?>">
+				      <a class="page-link" href="<?= $pagination->pagination()->nextPageURL() ?>">Next ›</a>
+				    </li>
+				<?php endif ?>
 
 			</ul>
 		</nav>

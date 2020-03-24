@@ -7,8 +7,8 @@
   var $grid = $('.grid').masonry({
     // options
     itemSelector: '.grid-item',
-    columnWidth: 300,
-    gutter: 40,
+    columnWidth: '.grid-sizer',
+    percentPosition: true
   });
 
 

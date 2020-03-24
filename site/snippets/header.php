@@ -20,8 +20,9 @@
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
 
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-   <link href="https://fonts.googleapis.com/css?family=Open+Sans|Passion+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Passion+One&display=swap" rel="stylesheet">
 
 
   <?= css(['assets/main.css', '@auto']) ?>

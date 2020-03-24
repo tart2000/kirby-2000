@@ -1,0 +1,33 @@
+Title: Active 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Varsow
+
+----
+
+Country: Poland
+
+----
+
+Cover:
+
+- >
+  active_2000_Varsow_Poland_2016-06-21
+  09.10.26.jpg
+
+----
+
+Credits: unknown
+
+----
+
+Type: shop
+
+----
+
+Status: open

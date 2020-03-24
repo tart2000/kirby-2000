@@ -1,0 +1,28 @@
+title: Pic
+preset: page
+pages: false 
+fields:
+  Year: 
+    label: Year 
+    type: number 
+    width: 1/4
+  City: 
+    label: City 
+    type: text 
+    width: 1/4 
+  Country: 
+    label: Country 
+    type: text 
+    width: 1/4 
+  Page: 
+    label: Page 
+    type: number 
+    width: 1/4 
+  Featured: 
+    label: Double size?
+    type: toggle
+    width: 1/2
+  Cover: 
+    label: Cover 
+    type: files
+    multiple: false

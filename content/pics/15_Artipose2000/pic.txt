@@ -1,0 +1,38 @@
+Title: Artipose 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Credits: Clémence Nicollet
+
+----
+
+Page: 103
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- artipose_2000.jpg
+
+----
+

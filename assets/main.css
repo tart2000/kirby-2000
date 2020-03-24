@@ -1,0 +1,85 @@
+body {
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background-color: #d8f9d8;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+.grid-item {
+	margin-bottom: 40px;
+	background-color: yellow;
+	position: relative;
+	top: 12px;
+	left: 12px;
+	max-width: 100%;
+}
+.grid-item>a>img:hover {
+	position: relative;
+	top: -17px;
+	left: -17px;
+}
+.grid-item>a>img {
+	max-width: 100%;
+	position: relative;
+	top: -12px;
+	left: -12px;
+	transition-duration: 0.5s;
+}
+.grid-item--gigante {
+  	width: 640px;
+  	max-width: 100%;
+}
+
+.grid {
+	margin-top: 100px;
+	margin-bottom: 100px;
+  	padding-left: 40px;
+  	padding-right: 40px;
+}
+
+/* Pic page */
+.img-container {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	max-width: 900px; 
+	margin-right: auto; 
+	margin-left: auto; 
+
+}
+.card>img {
+	max-width: 100%;
+	filter: drop-shadow(12px 12px 0px yellow);
+	margin-bottom: 40px;
+}
+h1 {
+    font-family: 'Passion One', cursive;
+}
+hr {
+	margin-bottom: 50px;
+}
+
+
+
+

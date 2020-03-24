@@ -1,0 +1,38 @@
+Title: AC 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 94
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- AC_2000_Paris_2019-05-01.jpg
+
+----
+

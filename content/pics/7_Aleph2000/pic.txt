@@ -1,0 +1,39 @@
+Title: Aleph 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Page: 119
+
+----
+
+Featured: true
+
+----
+
+Cover:
+
+- Aleph 2000 1.JPG
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: office
+
+----
+
+Status: unknown

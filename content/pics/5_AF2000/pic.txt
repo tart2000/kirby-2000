@@ -1,0 +1,38 @@
+Title: AF 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- AF_2000_mtl.jpg
+
+----
+

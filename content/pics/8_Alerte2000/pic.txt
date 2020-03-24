@@ -1,0 +1,38 @@
+Title: Alerte 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Alerte_2000_mtl.jpg
+
+----
+

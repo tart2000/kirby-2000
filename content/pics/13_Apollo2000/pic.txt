@@ -1,0 +1,38 @@
+Title: Apollo 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Julien Dora
+
+----
+
+Page: 44
+
+----
+
+Type: leisure
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Apollo_2000_Julien_Dora_2019.JPG
+
+----
+

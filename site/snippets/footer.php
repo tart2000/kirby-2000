@@ -6,15 +6,20 @@
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 
 <script type="text/javascript">
+window.onload = function() {
   var $grid = $('.grid').masonry({
     // options
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer',
     percentPosition: true
   });
-
+}
 
 </script>
+
+<div class="container-fluid text-center pt-5 pb-5">
+	<img src="<?= $site->url() ?>/assets/star.png" style="width: 30px;">
+</div>
 
 </body>
 </html>

@@ -1,0 +1,38 @@
+Title: Dégrip 2000
+
+----
+
+Year: 2005
+
+----
+
+City: St Etienne
+
+----
+
+Country: France
+
+----
+
+Credits: Briçou
+
+----
+
+Type: product
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- jelt_degrip_2000.png
+
+----
+
+Tags: Product
+
+----
+

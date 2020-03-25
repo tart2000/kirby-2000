@@ -1,0 +1,42 @@
+Title: Cantina 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Brooklyn
+
+----
+
+Country: USA
+
+----
+
+Credits: Lucy Gomez
+
+----
+
+Page: 13
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Cantina_2000_NYC_2019-01-28.jpg
+
+----
+
+Tags: Restaurant,Bar,Food
+
+----
+

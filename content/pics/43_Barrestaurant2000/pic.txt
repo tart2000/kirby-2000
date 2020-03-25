@@ -1,0 +1,42 @@
+Title: Bar restaurant 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Balears
+
+----
+
+Country: Spain
+
+----
+
+Credits: Turipano
+
+----
+
+Page: 103
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- bar_restaurante_2000_2018_Turipano360_Balears_Spain.JPG
+
+----
+
+Tags: Restaurant
+
+----
+

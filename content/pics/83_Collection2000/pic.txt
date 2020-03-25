@@ -1,0 +1,39 @@
+Title: Collection 2000
+
+----
+
+Year: 2019
+
+----
+
+City: St Etienne
+
+----
+
+Country: France
+
+----
+
+Featured: false
+
+----
+
+Tags: Shop
+
+----
+
+Cover:
+
+- collection_2000_V2.jpg
+
+----
+
+Credits: Vincent Nicollet
+
+----
+
+Type: shop
+
+----
+
+Status: open

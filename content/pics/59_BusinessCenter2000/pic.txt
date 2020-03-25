@@ -1,0 +1,38 @@
+Title: Business Center 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Vilnius
+
+----
+
+Country: Lituania
+
+----
+
+Credits: Arunas Vizickas
+
+----
+
+Type: office
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- business_2000_Vilnius_2017_Arunas_Vizickas_Lituania.JPG
+
+----
+
+Tags: Business,Office
+
+----
+

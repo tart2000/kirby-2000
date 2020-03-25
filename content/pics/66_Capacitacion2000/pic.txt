@@ -1,0 +1,43 @@
+Title: Capacitacion 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Bogota
+
+----
+
+Country: Colombia
+
+----
+
+Page: 91
+
+----
+
+Featured: false
+
+----
+
+Tags: Office, Business
+
+----
+
+Cover:
+
+- capacitation_2000_Emmanuel.jpg
+
+----
+
+Credits: Emmanuel Clain
+
+----
+
+Type: office
+
+----
+
+Status: open

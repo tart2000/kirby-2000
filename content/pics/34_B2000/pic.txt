@@ -1,0 +1,38 @@
+Title: B 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Aix-en-Provence
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: product
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- B_2000.jpg
+
+----
+
+Tags: Acronym,Shop
+
+----
+

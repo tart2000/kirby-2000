@@ -14,26 +14,11 @@ Country: Singapour
 
 ----
 
-Page: 103
-
-----
-
-Featured: false
-
-----
-
-Tags: cars, night
-
-----
-
-Cover:
-
-- >
-  2000_Tackle_Singapour_Kiyoshi_Nagashima_2019.jpg
-
-----
-
 Credits: Kiyoshi Nagashima
+
+----
+
+Page: 103
 
 ----
 
@@ -42,3 +27,16 @@ Type: shop
 ----
 
 Status: open
+
+----
+
+Cover: 
+
+- 2000_Tackle_Singapour_Kiyoshi_Nagashima_2019.jpg
+
+----
+
+Tags: Shop,Sport,Outdoors
+
+----
+

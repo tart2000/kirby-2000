@@ -1,0 +1,38 @@
+Title: Cinema 2000
+
+----
+
+Year: 2019
+
+----
+
+City: San Jose
+
+----
+
+Country: Costa Rica
+
+----
+
+Credits: Rodrigo Montero
+
+----
+
+Type: leisure
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- cniema_2000_ Rodrigo_Montero2019-09-04_San_Jose_Costa_Rica.jpg
+
+----
+
+Tags: Fun
+
+----
+

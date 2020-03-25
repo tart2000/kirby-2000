@@ -1,0 +1,42 @@
+Title: Dépann' 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Page: 113
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- depann_2000.jpg
+
+----
+
+Tags: Transport,Car,Vehicle
+
+----
+

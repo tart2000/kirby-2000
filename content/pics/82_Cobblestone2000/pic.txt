@@ -1,0 +1,42 @@
+Title: Cobblestone 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 6
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- cobblestones_2000_mtl.jpg
+
+----
+
+Tags: Vehicle,Construction
+
+----
+

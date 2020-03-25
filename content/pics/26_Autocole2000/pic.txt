@@ -1,0 +1,42 @@
+Title: Auto école 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Macon
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 99
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- auto_ecole_2000.JPG
+
+----
+
+Tags: Car,Office
+
+----
+

@@ -1,0 +1,42 @@
+Title: Carrosserie 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Plan de Campagne
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 7
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- carrosserie_2000_Plan_de_campagne.jpg
+
+----
+
+Tags: Car,Shop
+
+----
+

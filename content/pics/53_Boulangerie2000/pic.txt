@@ -1,0 +1,42 @@
+Title: Boulangerie 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Jaa Ahmed
+
+----
+
+Page: 83
+
+----
+
+Type: shop
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- boulangerie_2000.jpeg
+
+----
+
+Tags: Shop,Food
+
+----
+

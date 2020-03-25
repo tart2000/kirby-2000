@@ -1,0 +1,42 @@
+Title: Boulangerie 2000
+
+----
+
+Year: 2005
+
+----
+
+City: Ouagadougou
+
+----
+
+Country: Burkina Faso
+
+----
+
+Credits: Briçou
+
+----
+
+Page: 83
+
+----
+
+Type: shop
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- boulange_2000.jpg
+
+----
+
+Tags: Shop,Food
+
+----
+

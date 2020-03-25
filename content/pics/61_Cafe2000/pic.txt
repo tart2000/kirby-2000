@@ -1,0 +1,42 @@
+Title: Cafe 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Brooklyn
+
+----
+
+Country: USA
+
+----
+
+Credits: unknown
+
+----
+
+Page: 20
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- cafe_2000_nyc_GMaps.jpg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

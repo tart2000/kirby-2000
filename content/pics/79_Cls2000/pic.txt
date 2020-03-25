@@ -1,0 +1,38 @@
+Title: Clés 2000
+
+----
+
+Year: 2005
+
+----
+
+City: Nice
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Cles_2000.jpg
+
+----
+
+Tags: Shop
+
+----
+

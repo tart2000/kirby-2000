@@ -1,0 +1,42 @@
+Title: Brasserie 2000
+
+----
+
+Year: 2009
+
+----
+
+City: Lyon
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 49
+
+----
+
+Type: restaurant
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- Brasserie_2000.JPG
+
+----
+
+Tags: Night,Closed,Restaurant,Food,Bar
+
+----
+

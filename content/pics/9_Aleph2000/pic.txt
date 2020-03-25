@@ -1,0 +1,43 @@
+Title: Aleph 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Page: 119
+
+----
+
+Featured: true
+
+----
+
+Tags: Office, Hi-tech
+
+----
+
+Cover:
+
+- Aleph 2000 1.JPG
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: office
+
+----
+
+Status: unknown

@@ -1,0 +1,42 @@
+Title: Cars V2000
+
+----
+
+Year: 2010
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- CarsV2000.jpg
+
+----
+
+Tags: Acronym,Travel
+
+----
+

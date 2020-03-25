@@ -14,11 +14,25 @@ Country: France
 
 ----
 
-Credits: Arthur Schmitt
+Page: 50
 
 ----
 
-Page: 50
+Featured: false
+
+----
+
+Tags: Acronym, Construction
+
+----
+
+Cover:
+
+- AB2000_construction.jpg
+
+----
+
+Credits: Arthur Schmitt
 
 ----
 
@@ -27,12 +41,3 @@ Type: other
 ----
 
 Status: unknown
-
-----
-
-Cover: 
-
-- AB2000_construction.jpg
-
-----
-

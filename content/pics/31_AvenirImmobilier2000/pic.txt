@@ -1,0 +1,42 @@
+Title: Avenir Immobilier 2000
+
+----
+
+Year: 2006
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Page: 99
+
+----
+
+Type: shop
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- avenirimmobilier2000.jpeg
+
+----
+
+Tags: Office,Closed
+
+----
+

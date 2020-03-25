@@ -1,0 +1,42 @@
+Title: B 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 36
+
+----
+
+Type: office
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- B_2000_Marseille.jpg
+
+----
+
+Tags: Acronym,Closed
+
+----
+

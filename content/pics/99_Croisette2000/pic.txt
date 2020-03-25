@@ -1,0 +1,43 @@
+Title: Croisette 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Cannes
+
+----
+
+Country: France
+
+----
+
+Page: 114
+
+----
+
+Featured: true
+
+----
+
+Tags: Fun
+
+----
+
+Cover:
+
+- croisette2000.JPG
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: leisure
+
+----
+
+Status: open

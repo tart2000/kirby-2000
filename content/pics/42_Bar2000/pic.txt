@@ -1,0 +1,43 @@
+Title: Bar 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Tarrafal
+
+----
+
+Country: Cap-Vert
+
+----
+
+Page: 116
+
+----
+
+Featured: true
+
+----
+
+Tags: Bar
+
+----
+
+Cover:
+
+- bar_2000_Tarrafal_cap_vert_Crystjan.jpg
+
+----
+
+Credits: Crystjan
+
+----
+
+Type: restaurant
+
+----
+
+Status: open

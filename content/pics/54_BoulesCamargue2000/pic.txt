@@ -1,0 +1,39 @@
+Title: Boules Camargue 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Camargue
+
+----
+
+Country: France
+
+----
+
+Featured: true
+
+----
+
+Tags: Sport, Fun, Outdoors
+
+----
+
+Cover:
+
+- Camargue_2000_Nicolas_Nova_2016.jpg
+
+----
+
+Credits: Nicolas Nova
+
+----
+
+Type: leisure
+
+----
+
+Status: unknown

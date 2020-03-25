@@ -31,44 +31,94 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="<?= $site->url() ?>">2000.photos</a>
+  <a class="navbar-brand ml-4" href="<?= $site->url() ?>">
+  	<img src="<?= $site->url() ?>/assets/globe.png">
+  </a>
+  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+    	<!-- 
       <li class="nav-item <?php e($page->url() == $site->url(),'active') ?>">
         <a class="nav-link" href="<?= $site->url() ?>">Home</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">About</a>
       </li>
+  -->
     </ul>
     <ul class="navbar-nav navbar-right pr-3">
     	<li class="nav-item">
-	        <a class="nav-link disabled" href="#">Sort by:</a>
+	        <a class="nav-link disabled" href="#">Filter by:</a>
+	    </li>
+	    <li class="nav-item dropdown">
+	        <a class="nav-link dropdown-toggle" href="#" id="countryDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	          <?php if ($country = param('country')) : ?>
+	        		<?= html($country) ?>
+	        	<?php else : ?>
+	        		Country
+	        	<?php endif ?>
+	        </a>
+	        <div class="dropdown-menu" aria-labelledby="countryDropdown">
+	        	<?php $countries = $site->page('pics')->children()->listed()->pluck('country', ',', true); ?>
+	        	<?php sort($countries) ?>
+	        	<?php foreach ($countries as $country) : ?>
+		          <a class="dropdown-item" href="<?= url('/', ['params' => ['country' => $country]]) ?>">
+		          	<?= html($country) ?>
+		          </a>
+		        <?php endforeach ?>
+	        </div>
 	    </li>
 	    <li class="nav-item dropdown">
 	        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-	          Tags
+	          <?php if ($tag = param('tag')) : ?>
+	        		<?= html($tag) ?>
+	        	<?php else : ?>
+	        		Tags
+	        	<?php endif ?>
 	        </a>
 	        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
 	        	<?php $tags = $site->page('pics')->children()->listed()->pluck('tags', ',', true); ?>
+	        	<?php sort($tags); ?>
 	        	<?php foreach ($tags as $tag) : ?>
 		          <a class="dropdown-item" href="<?= url('/', ['params' => ['tag' => $tag]]) ?>">
 		          	<?= html($tag) ?>
 		          </a>
 		        <?php endforeach ?>
 	        </div>
-	      </li>
-    	<li class="nav-item">
-	        <a class="nav-link" href="<?= $site->url().'/sort:year' ?>">Year</a>
 	    </li>
+	    <li class="nav-item dropdown">
+	        <a class="nav-link dropdown-toggle" href="#" id="yearDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	        	<?php if ($year = param('year')) : ?>
+	        		<?= html($year) ?>
+	        	<?php else : ?>
+	        		Year
+	        	<?php endif ?>
+	        </a>
+	        <div class="dropdown-menu" aria-labelledby="yearDropdown">
+	        	<?php $years = $site->page('pics')->children()->listed()->pluck('year', ',', true); ?>
+	        	<?php sort($years); ?>
+	        	<?php foreach ($years as $year) : ?>
+		          <a class="dropdown-item" href="<?= url('/', ['params' => ['year' => $year]]) ?>">
+		          	<?= html($year) ?>
+		          </a>
+		        <?php endforeach ?>
+	        </div>
+	    </li>
+
+
+	    <!-- 
 	    <li class="nav-item">
 	        <a class="nav-link" href="<?= $site->url().'/sort:atoz' ?>">A>Z</a>
 	    </li>
-  </ul>
+		-->
+  	</ul>
   </div>
 </nav>
+
+<img src="<?= $site->url() ?>/assets/background.png" class="img-fluid" id="bg">
 

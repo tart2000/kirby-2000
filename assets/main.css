@@ -3,7 +3,7 @@ body {
 	height: 100%;
 	padding: 0;
 	margin: 0;
-	background-color: #d8f9d8;
+	background-color: #F7F6DF;
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -22,6 +22,11 @@ body {
 }
 .img-container>img {
 	width: 100%;
+}
+#bg {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
 }
 
 /* Pic page */

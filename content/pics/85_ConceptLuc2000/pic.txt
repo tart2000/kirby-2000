@@ -1,0 +1,43 @@
+Title: Concept Luc 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Desbiens
+
+----
+
+Country: Canada
+
+----
+
+Page: 63
+
+----
+
+Featured: true
+
+----
+
+Tags: Construction, Shop
+
+----
+
+Cover:
+
+- concept_Luc_2000.JPG
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: shop
+
+----
+
+Status: open

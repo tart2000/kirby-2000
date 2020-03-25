@@ -1,0 +1,42 @@
+Title: CMV MK 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: unknown
+
+----
+
+Page: 106
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- cmv_mk_2000.jpg
+
+----
+
+Tags: Acronym,Vehicle,Construction
+
+----
+

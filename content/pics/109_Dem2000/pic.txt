@@ -1,0 +1,42 @@
+Title: Dem 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 77
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- DEM2000.jpg
+
+----
+
+Tags: Vehicle
+
+----
+

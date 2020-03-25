@@ -1,0 +1,42 @@
+Title: Bar 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Page: 82
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- bar_2000_Pages_Jaunes.jpeg
+
+----
+
+Tags: Bar
+
+----
+

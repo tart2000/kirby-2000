@@ -1,11 +1,6 @@
 <?php snippet('header') ?>
 
-<!-- Number of images per page-->
-<?php $population = 10 ?>
-<?php $pics = page('pics')->children()->listed() ?>
-
-<?php $pagination = $pics->paginate($population) ?>
-
+<!-- check controllers for PHP --> 
 
 <div class="container-fluid">
 	<div class="grid mt-5">
@@ -14,18 +9,18 @@
 		
 		<?php foreach ($pagination as $pic) : ?>
 
-			<?php $makebig = 'col-md-3' ?>
+			<?php $makebig = 'col-md-6 col-lg-3' ?>
 			<!-- check if double sized -->
 			<?php if ($pic->featured()->toBool() === true) : ?>
-				<?php $makebig = 'col-md-6'; ?>
+				<?php $makebig = 'col-md-12 col-lg-6'; ?>
 			<?php endif ?>
 			
-			
+			<?php $thumb = $site->url().'/assets/not-found.jpg' ?>
 			<?php if ($cover = $pic->cover()->toFile()) : ?>
 				<?php $thumb = $cover->thumb([
 					'width' => 800,
 					'quality' => 80
-				]) ?>
+				])->url() ?>
 			<?php endif ?>
 
 			<div class="grid-sizer col-md-3"></div>
@@ -33,7 +28,7 @@
 			<div class="grid-item <?= $makebig ?>">
 				<div class="grid-item-content">
 					<a href="<?= $pic->url() ?>">
-						<img src="<?= $thumb->url() ?>" class="img-fluid" alt="<?= $pic->title() ?>">
+						<img src="<?= $thumb ?>" class="img-fluid" alt="<?= $pic->title() ?>">
 					</a>
 				</div>
 			</div><!-- end card -->
@@ -44,7 +39,7 @@
 
 	<!-- Pagination -->
 	<?php if ($pagination->pagination()->hasPages()): ?>
-		<nav aria-label="...">
+		<nav aria-label="..." class="mt-3 mb-5">
 			<ul class="pagination justify-content-center">
 
 				<!-- Previous page --> 

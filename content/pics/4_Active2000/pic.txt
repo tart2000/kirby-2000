@@ -14,6 +14,14 @@ Country: Poland
 
 ----
 
+Featured: false
+
+----
+
+Tags: Car, Shop
+
+----
+
 Cover:
 
 - >

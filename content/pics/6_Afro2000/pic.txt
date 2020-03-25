@@ -1,0 +1,39 @@
+Title: Afro 2000
+
+----
+
+Year: 2013
+
+----
+
+City: 
+
+----
+
+Country: Switzerland
+
+----
+
+Featured: true
+
+----
+
+Tags: Beauty, Shop
+
+----
+
+Cover:
+
+- Afro 2000.JPG
+
+----
+
+Credits: Ronan Lecreurer
+
+----
+
+Type: shop
+
+----
+
+Status: unknown

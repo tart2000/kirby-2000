@@ -20,13 +20,21 @@
 				<img src="<?= $thumb->url() ?>" class="img-fluid">
 			<?php endif ?>
 			<div class="meta">
-				<b>Year:</b> <?= $page->year() ?><br>
+				<?php if ($page->year() != '') : ?>
+					<b>Year:</b> <?= $page->year() ?><br>
+				<?php endif ?>
 
-				<b>City:</b> <?= $page->city() ?><br>
+				<?php if ($page->city() != '') : ?>
+					<b>City:</b> <?= $page->city() ?><br>
+				<?php endif ?>
 
-				<b>Country:</b> <?= $page->country() ?><br>
+				<?php if ($page->country() != '') : ?>
+					<b>Country:</b> <?= $page->country() ?><br>
+				<?php endif ?>
 
-				<b>Credits:</b> <?= $page->credits() ?><br>
+				<?php if ($page->credits() != '') : ?>
+					<b>Credits:</b> <?= $page->credits() ?><br>
+				<?php endif ?>
 			</div>	
 		</div>
 		<div class="col-md-1">

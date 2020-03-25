@@ -1,0 +1,42 @@
+Title: Curry 2000
+
+----
+
+Year: 2015
+
+----
+
+City: London
+
+----
+
+Country: UK
+
+----
+
+Credits: unknown
+
+----
+
+Page: 103
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- curry_2000_London.jpg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

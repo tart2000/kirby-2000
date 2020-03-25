@@ -1,0 +1,42 @@
+Title: Auto 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 32
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Auto_2000.jpg
+
+----
+
+Tags: Car,Shop
+
+----
+

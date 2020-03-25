@@ -1,0 +1,42 @@
+Title: Aventuras 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Panama
+
+----
+
+Country: Panama
+
+----
+
+Credits: unknown
+
+----
+
+Page: 33
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- aventuras_2000_Panama_Panama_2018.jpg
+
+----
+
+Tags: Travel,Vehicle
+
+----
+

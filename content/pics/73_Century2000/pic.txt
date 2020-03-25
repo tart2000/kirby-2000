@@ -1,0 +1,42 @@
+Title: Century 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Cleveland
+
+----
+
+Country: USA
+
+----
+
+Credits: unknown
+
+----
+
+Page: 95
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- centrury_2000_cleveland.JPG
+
+----
+
+Tags: Office,Business
+
+----
+

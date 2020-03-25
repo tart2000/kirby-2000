@@ -1,0 +1,38 @@
+Title: Electro 2000
+
+----
+
+Year: 2015
+
+----
+
+City: Thoiry
+
+----
+
+Country: France
+
+----
+
+Credits: Sergio Orlando
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- electro_2000_2.jpeg
+
+----
+
+Tags: Shop,Hi-tech
+
+----
+

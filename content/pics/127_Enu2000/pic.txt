@@ -1,0 +1,43 @@
+Title: Enu 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Bahir Dar
+
+----
+
+Country: Ethiopia
+
+----
+
+Page: 22
+
+----
+
+Featured: true
+
+----
+
+Tags: Outdoors, Construction
+
+----
+
+Cover:
+
+- enu-2000.jpeg
+
+----
+
+Credits: Péqué et Macha
+
+----
+
+Type: other
+
+----
+
+Status: open

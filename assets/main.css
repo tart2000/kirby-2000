@@ -30,7 +30,7 @@ body {
 }
 
 /* Pic page */
-.img-page img {
+.main-image {
 	filter: drop-shadow(12px 12px 0px yellow);
 	margin-bottom: 40px;
 }

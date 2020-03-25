@@ -1,0 +1,42 @@
+Title: Fibre 2000
+
+----
+
+Year: 2010
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- fibre_2000.jpg
+
+----
+
+Tags: Vehicle,Hi-tech
+
+----
+

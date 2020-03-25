@@ -1,0 +1,42 @@
+Title: Fleurs 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Dijon
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 24
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Fleurs_2000_Dijon.jpg
+
+----
+
+Tags: Shop
+
+----
+

@@ -1,0 +1,43 @@
+Title: Espace 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Clermont-Ferrand
+
+----
+
+Country: France
+
+----
+
+Page: 39
+
+----
+
+Featured: true
+
+----
+
+Tags: Hand-written, Fun, Business
+
+----
+
+Cover:
+
+- Espace 2000.jpg
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: leisure
+
+----
+
+Status: unknown

@@ -1,0 +1,43 @@
+Title: Echaffaudages 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Monthey
+
+----
+
+Country: Switzerland
+
+----
+
+Page: 112
+
+----
+
+Featured: false
+
+----
+
+Tags: Construction, Vehicle
+
+----
+
+Cover:
+
+- echaffaudage_2000_Quentin.JPG
+
+----
+
+Credits: Quentin Lannes
+
+----
+
+Type: vehicle
+
+----
+
+Status: open

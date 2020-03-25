@@ -1,0 +1,42 @@
+Title: Bar 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Tarrafal
+
+----
+
+Country: Cap-Vert
+
+----
+
+Credits: LM
+
+----
+
+Page: 8
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Bar 2000V2 LM.JPG
+
+----
+
+Tags: Hand-written,Bar
+
+----
+

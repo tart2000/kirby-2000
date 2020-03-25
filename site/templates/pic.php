@@ -3,22 +3,39 @@
 <div class="container-fluid img-page mt-5 mb-5">
 
 	<div class="row">
-		<div class="col-md-1">
+		<div class="col-md-8 offset-md-2">
+			<h1><?= $page->title() ?></h1>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-2 align-self-center">
 			<?php if ($page->hasPrev()) : ?>
 				<a href="<?= $page->prev()->url() ?>">
-					Previous
+					<img src="<?= $site->url() ?>/assets/arrow_left.png" class="img-fluid">
 				</a>
 			<?php endif ?>
 		</div>
-		<div class="col-md-10">
-			<h1><?= $page->title() ?></h1>
+		<div class="col-md-8">
 			<?php if ($cover = $page->cover()->toFile()) : ?>
 				<?php $thumb = $cover->thumb([
 					'width' => 2000,
 					'quality' => 80
 				]) ?>
-				<img src="<?= $thumb->url() ?>" class="img-fluid">
+				<img src="<?= $thumb->url() ?>" class="img-fluid main-image">
 			<?php endif ?>
+		</div>
+		<div class="col-md-2 align-self-center">
+			<?php if ($page->hasNext()) : ?>
+				<a href="<?= $page->next()->url() ?>">
+					<img src="<?= $site->url() ?>/assets/arrow_right.png" class="img-fluid">
+				</a>
+			<?php endif ?>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-8 offset-md-2">
 			<div class="meta">
 				<?php if ($page->year() != '') : ?>
 					<b>Year:</b> <?= $page->year() ?><br>
@@ -37,14 +54,7 @@
 				<?php endif ?>
 			</div>	
 		</div>
-		<div class="col-md-1">
-			<?php if ($page->hasNext()) : ?>
-				<a href="<?= $page->next()->url() ?>">
-					Next
-				</a>
-			<?php endif ?>
-		</div>
-	</div><!-- end card -->
+	</div>
 
 
 	

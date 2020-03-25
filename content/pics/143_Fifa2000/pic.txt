@@ -1,0 +1,43 @@
+Title: Fifa 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Santiago
+
+----
+
+Country: Chile
+
+----
+
+Page: 87
+
+----
+
+Featured: false
+
+----
+
+Tags: Hand-written, Sport
+
+----
+
+Cover:
+
+- 9652362786_74468b7367_o.jpg
+
+----
+
+Credits: unknown
+
+----
+
+Type: other
+
+----
+
+Status: unknown

@@ -25,6 +25,8 @@ fields:
   Tags: 
     label: Tags
     type: tags 
+    options: query
+    query: page.siblings.pluck("tags", ",", true)
     width: 1/2
   Cover: 
     label: Cover 

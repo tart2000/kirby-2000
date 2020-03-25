@@ -1,0 +1,39 @@
+Title: Euro 2000
+
+----
+
+Year: 2008
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Featured: false
+
+----
+
+Tags: Closed
+
+----
+
+Cover:
+
+- Euro_2000_Paris_Solene_Fev_2020.jpeg
+
+----
+
+Credits: Nicolas Nova
+
+----
+
+Type: office
+
+----
+
+Status: closed

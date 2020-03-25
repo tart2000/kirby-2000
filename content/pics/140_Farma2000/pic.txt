@@ -1,0 +1,38 @@
+Title: Farma 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Mexico city
+
+----
+
+Country: Mexico
+
+----
+
+Credits: unknown
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Farma_2000_Mexico.jpg
+
+----
+
+Tags: Health,Shop
+
+----
+

@@ -14,11 +14,25 @@ Country: France
 
 ----
 
-Credits: unknown
+Page: 71
 
 ----
 
-Page: 71
+Featured: false
+
+----
+
+Tags: Shop, Sign
+
+----
+
+Cover:
+
+- Copy_2000.jpg
+
+----
+
+Credits: unknown
 
 ----
 
@@ -27,16 +41,3 @@ Type: shop
 ----
 
 Status: open
-
-----
-
-Cover: 
-
-- Copy_2000.jpg
-
-----
-
-Tags: Shop
-
-----
-

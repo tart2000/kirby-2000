@@ -1,0 +1,43 @@
+Title: Formatic 2000
+
+----
+
+Year: 2010
+
+----
+
+City: Lyon
+
+----
+
+Country: France
+
+----
+
+Page: 106
+
+----
+
+Featured: true
+
+----
+
+Tags: Hi-tech, Office
+
+----
+
+Cover:
+
+- Formatic 2000.JPG
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: office
+
+----
+
+Status: unknown

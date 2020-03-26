@@ -1,0 +1,39 @@
+Title: Roubaix 2000
+
+----
+
+Year: 2020
+
+----
+
+City: Longues Haies
+
+----
+
+Country: France
+
+----
+
+Featured: true
+
+----
+
+Tags: Shop
+
+----
+
+Cover:
+
+- Roubaix_2000.jpg
+
+----
+
+Credits: Renaud Epstein
+
+----
+
+Type: shop
+
+----
+
+Status: unknown

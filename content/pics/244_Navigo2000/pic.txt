@@ -1,0 +1,40 @@
+Title: Navigo 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Pula
+
+----
+
+Country: Croatia
+
+----
+
+Featured: true
+
+----
+
+Tags: Shop, Outdoors, Sport
+
+----
+
+Cover:
+
+- >
+  navigo_2000_2017-10-20_Enio_Pasalic_Pula_Croatia.jpg
+
+----
+
+Credits: Enio Pasalic
+
+----
+
+Type: shop
+
+----
+
+Status: open

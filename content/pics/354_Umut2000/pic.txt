@@ -1,0 +1,42 @@
+Title: Umut 2000
+
+----
+
+Year: 2019
+
+----
+
+City: London
+
+----
+
+Country: UK
+
+----
+
+Credits: Gaspard Schmitt
+
+----
+
+Page: 72
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- umut_2000_London.jpeg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

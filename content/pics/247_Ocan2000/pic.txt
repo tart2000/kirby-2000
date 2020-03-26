@@ -1,0 +1,38 @@
+Title: Océan 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Genève
+
+----
+
+Country: Switzerland
+
+----
+
+Credits: Quentin Lannes
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- ocean_2000.jpg
+
+----
+
+Tags: Vehicle,Hi-tech
+
+----
+

@@ -1,0 +1,42 @@
+Title: Pizzeria Fortuna 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Vrsar
+
+----
+
+Country: Croatia
+
+----
+
+Credits: Оксана Теттаманти
+
+----
+
+Page: 60
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- pizzeria_fortuna_2000_Vrsar_Croatia_2017_Оксана_Теттаманти.jpg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

@@ -1,0 +1,42 @@
+Title: Kebab 2000
+
+----
+
+Year: 2004
+
+----
+
+City: unknown
+
+----
+
+Country: France
+
+----
+
+Credits: Briçou
+
+----
+
+Page: 103
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Kebab 2000.png
+
+----
+
+Tags: Restaurant,Food
+
+----
+

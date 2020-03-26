@@ -1,0 +1,38 @@
+Title: Linea 2000
+
+----
+
+Year: 2015
+
+----
+
+City: Maipu
+
+----
+
+Country: Argentina
+
+----
+
+Credits: unknown
+
+----
+
+Type: shop
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Linea_2000_2015_Maipu_Argetina.jpeg
+
+----
+
+Tags: Shop,Food
+
+----
+

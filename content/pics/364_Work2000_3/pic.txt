@@ -1,0 +1,42 @@
+Title: Work 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Grenoble
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 103
+
+----
+
+Type: office
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Work_2000_Grenoble.jpg
+
+----
+
+Tags: Office
+
+----
+

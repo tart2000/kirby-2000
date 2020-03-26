@@ -1,0 +1,42 @@
+Title: Papyrus 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Arles
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 118
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Papyrus_2000.jpg
+
+----
+
+Tags: Shop
+
+----
+

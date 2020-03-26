@@ -1,0 +1,42 @@
+Title: L'Ami 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Gaspard Schmitt
+
+----
+
+Page: 62
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- l_ami_2000_Gaspard.jpg
+
+----
+
+Tags: Shop
+
+----
+

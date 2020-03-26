@@ -1,0 +1,42 @@
+Title: Sec 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 57
+
+----
+
+Type: shop
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- Sec_2000.JPG
+
+----
+
+Tags: Closed,Shop
+
+----
+

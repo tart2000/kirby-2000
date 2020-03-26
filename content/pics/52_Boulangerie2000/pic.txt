@@ -10,15 +10,29 @@ City: Ouagadougou
 
 ----
 
-Country: Burkina Faso
-
-----
-
-Credits: Briçou
+Country: Burkina-Faso
 
 ----
 
 Page: 83
+
+----
+
+Featured: false
+
+----
+
+Tags: Shop, Food
+
+----
+
+Cover:
+
+- boulange_2000.jpg
+
+----
+
+Credits: Briçou
 
 ----
 
@@ -27,16 +41,3 @@ Type: shop
 ----
 
 Status: unknown
-
-----
-
-Cover: 
-
-- boulange_2000.jpg
-
-----
-
-Tags: Shop,Food
-
-----
-

@@ -10,7 +10,23 @@ City: San Jose
 
 ----
 
-Country: Costa Rica
+Country: Costa-Rica
+
+----
+
+Featured: false
+
+----
+
+Tags: Fun
+
+----
+
+Cover:
+
+- >
+  cniema_2000_
+  Rodrigo_Montero2019-09-04_San_Jose_Costa_Rica.jpg
 
 ----
 
@@ -23,16 +39,3 @@ Type: leisure
 ----
 
 Status: unknown
-
-----
-
-Cover: 
-
-- cniema_2000_ Rodrigo_Montero2019-09-04_San_Jose_Costa_Rica.jpg
-
-----
-
-Tags: Fun
-
-----
-

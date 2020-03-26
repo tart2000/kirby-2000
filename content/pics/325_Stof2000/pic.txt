@@ -1,0 +1,42 @@
+Title: Stof 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Copenhagen
+
+----
+
+Country: Denmark
+
+----
+
+Credits: unknown
+
+----
+
+Page: 29
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- stof_2000_copenhagen.jpg
+
+----
+
+Tags: Shop
+
+----
+

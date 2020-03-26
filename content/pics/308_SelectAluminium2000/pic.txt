@@ -1,0 +1,42 @@
+Title: Select Aluminium 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal 
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 42
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- select_aluminium_2000.jpg
+
+----
+
+Tags: Construction,Vehicle
+
+----
+

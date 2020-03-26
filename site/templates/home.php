@@ -23,7 +23,7 @@
 				])->url() ?>
 			<?php endif ?>
 
-			<div class="grid-sizer col-md-3"></div>
+			<div class="grid-sizer col-md-6 col-lg-3"></div>
 
 			<div class="grid-item <?= $makebig ?>">
 				<div class="grid-item-content">

@@ -1,0 +1,42 @@
+Title: Top 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Casablanca
+
+----
+
+Country: Morocco
+
+----
+
+Credits: Aex Oudry
+
+----
+
+Page: 91
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Top_2000_casablanca.jpeg
+
+----
+
+Tags: Shop,Hi-tech
+
+----
+

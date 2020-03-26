@@ -1,0 +1,42 @@
+Title: Snack 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Fabien Eychenne
+
+----
+
+Page: 12
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Snack 2000 Fabien.jpg
+
+----
+
+Tags: Night,Neon
+
+----
+

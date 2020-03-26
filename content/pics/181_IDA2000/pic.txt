@@ -1,0 +1,38 @@
+Title: IDA 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Gaspard Schmitt
+
+----
+
+Type: office
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- IDA_2000.jpeg
+
+----
+
+Tags: Acronym,Office
+
+----
+

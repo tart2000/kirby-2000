@@ -1,0 +1,42 @@
+Title: VP 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 97
+
+----
+
+Type: product
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- VP 2000.JPG
+
+----
+
+Tags: Acronym,Construction,Product
+
+----
+

@@ -1,0 +1,42 @@
+Title: Immobiliaria 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Curitiba
+
+----
+
+Country: Brasil
+
+----
+
+Credits: Alexander Sova
+
+----
+
+Page: 105
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- imobiliaria_2000_Alexander_Sova_2016_Curitiba.jpg
+
+----
+
+Tags: Office,Fancy
+
+----
+

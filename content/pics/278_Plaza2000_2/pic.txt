@@ -1,0 +1,42 @@
+Title: Plaza 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Laval
+
+----
+
+Country: Canada
+
+----
+
+Credits: unknown
+
+----
+
+Page: 35
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Plaza_2000_Quebec.jpg
+
+----
+
+Tags: Car,Shop,Sign
+
+----
+

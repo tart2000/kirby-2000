@@ -14,11 +14,25 @@ Country: France
 
 ----
 
-Credits: Clémence Nicollet
+Page: 103
 
 ----
 
-Page: 103
+Featured: false
+
+----
+
+Tags: Shop, Craft, Sign
+
+----
+
+Cover:
+
+- artipose_2000.jpg
+
+----
+
+Credits: Clémence Nicollet
 
 ----
 
@@ -27,16 +41,3 @@ Type: shop
 ----
 
 Status: open
-
-----
-
-Cover: 
-
-- artipose_2000.jpg
-
-----
-
-Tags: Shop,Craft
-
-----
-

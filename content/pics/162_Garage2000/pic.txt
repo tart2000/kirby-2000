@@ -1,0 +1,42 @@
+Title: Garage 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Montreuil
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 111
+
+----
+
+Type: shop
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Garage 2000 2.JPG
+
+----
+
+Tags: Car,Shop
+
+----
+

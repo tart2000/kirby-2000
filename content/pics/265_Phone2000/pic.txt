@@ -1,0 +1,42 @@
+Title: Phone 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 72
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Phone_2000_Vintage.JPG
+
+----
+
+Tags: Hi-tech,Shop
+
+----
+

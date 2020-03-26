@@ -1,0 +1,42 @@
+Title: Taxis 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Taxi_2000.jpg
+
+----
+
+Tags: Transport,Vehicle,Travel
+
+----
+

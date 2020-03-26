@@ -14,11 +14,25 @@ Country: Switzerland
 
 ----
 
-Credits: Nicolas Nova
+Page: 10
 
 ----
 
-Page: 10
+Featured: true
+
+----
+
+Tags: Construction
+
+----
+
+Cover:
+
+- Echafaudages_2000_Nicolas_Nova_2015.jpg
+
+----
+
+Credits: Nicolas Nova
 
 ----
 
@@ -27,16 +41,3 @@ Type: other
 ----
 
 Status: open
-
-----
-
-Cover: 
-
-- Echafaudages_2000_Nicolas_Nova_2015.jpg
-
-----
-
-Tags: Construction
-
-----
-

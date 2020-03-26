@@ -1,0 +1,42 @@
+Title: Oro 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Bitonto
+
+----
+
+Country: Italy
+
+----
+
+Credits: Laetitia Chabannes
+
+----
+
+Page: 95
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- oro_2000.jpeg
+
+----
+
+Tags: Fancy,Sign,Shop
+
+----
+

@@ -1,0 +1,43 @@
+Title: Plafonds 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Lausanne
+
+----
+
+Country: Switzerland
+
+----
+
+Page: 78
+
+----
+
+Featured: false
+
+----
+
+Tags: Construction, Vehicle
+
+----
+
+Cover:
+
+- Plafonds_2000.jpg
+
+----
+
+Credits: Quentin Lannes
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown

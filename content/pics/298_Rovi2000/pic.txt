@@ -1,0 +1,38 @@
+Title: Rovi 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- rovi2000.JPG
+
+----
+
+Tags: Vehicle,Construction
+
+----
+

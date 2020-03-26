@@ -1,0 +1,38 @@
+Title: Gel Doc 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Clarisse Thiollier
+
+----
+
+Type: product
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- GelDoc2000.JPG
+
+----
+
+Tags: Product,Health
+
+----
+

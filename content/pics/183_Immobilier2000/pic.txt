@@ -1,0 +1,42 @@
+Title: Immobilier 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Amélie-les-bains-palada
+
+----
+
+Country: France
+
+----
+
+Credits: Jean Michel Dhainaut
+
+----
+
+Page: 91
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Immobilier_2000_GMaps.JPG
+
+----
+
+Tags: Office
+
+----
+

@@ -1,0 +1,39 @@
+Title: Kiosque 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Lausanne
+
+----
+
+Country: Switzerland
+
+----
+
+Featured: true
+
+----
+
+Tags: Shop
+
+----
+
+Cover:
+
+- Kiosque 2000.jpg
+
+----
+
+Credits: Ronan Lecreurer
+
+----
+
+Type: shop
+
+----
+
+Status: unknown

@@ -1,0 +1,42 @@
+Title: Laverie automatique 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Grenoble
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 101
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- laverie_automatique_2000.jpg
+
+----
+
+Tags: Shop
+
+----
+

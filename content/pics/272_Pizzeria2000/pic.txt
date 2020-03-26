@@ -1,0 +1,42 @@
+Title: Pizzeria 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Malmö
+
+----
+
+Country: Sweden
+
+----
+
+Credits: Samir Vlahovljak
+
+----
+
+Page: 100
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Pizzeria_2000_Malmo_Suede_Samir_Vlahovljak_2017.JPG
+
+----
+
+Tags: Restaurant,Food
+
+----
+

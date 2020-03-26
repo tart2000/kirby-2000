@@ -1,0 +1,42 @@
+Title: Restaurante 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Barcelos
+
+----
+
+Country: Portugal
+
+----
+
+Credits: unknown
+
+----
+
+Page: 66
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Restaurante-2000.jpg
+
+----
+
+Tags: Restaurant
+
+----
+

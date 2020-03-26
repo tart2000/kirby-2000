@@ -1,0 +1,42 @@
+Title: Service 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 77
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- service 2000 mtl.jpg
+
+----
+
+Tags: Hi-tech,Vehicle
+
+----
+

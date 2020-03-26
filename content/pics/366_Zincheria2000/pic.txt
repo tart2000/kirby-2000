@@ -1,0 +1,39 @@
+Title: Zincheria 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Avegno
+
+----
+
+Country: Switzerland
+
+----
+
+Featured: true
+
+----
+
+Tags: Industrial, Shop
+
+----
+
+Cover:
+
+- Zincheria 2000.JPG
+
+----
+
+Credits: Ronan Lecreurer
+
+----
+
+Type: shop
+
+----
+
+Status: unknown

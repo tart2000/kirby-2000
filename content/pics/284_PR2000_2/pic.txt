@@ -1,0 +1,42 @@
+Title: PR 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 78
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- PR20002.jpg
+
+----
+
+Tags: Acronym,Construction,Vehicle
+
+----
+

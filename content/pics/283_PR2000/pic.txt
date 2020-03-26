@@ -1,0 +1,38 @@
+Title: PR 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: product
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- PR2000.JPG
+
+----
+
+Tags: Acronym,Product
+
+----
+

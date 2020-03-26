@@ -1,0 +1,43 @@
+Title: Pizza 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Méry-sur-Oise
+
+----
+
+Country: France
+
+----
+
+Page: 5
+
+----
+
+Featured: true
+
+----
+
+Tags: Restaurant, Food
+
+----
+
+Cover:
+
+- Pizza_2000_2018-08-24_GMaps.jpg
+
+----
+
+Credits: Laurent Lolo
+
+----
+
+Type: restaurant
+
+----
+
+Status: open

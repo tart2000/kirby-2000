@@ -1,0 +1,42 @@
+Title: MAB 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 77
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- MAB 2000.jpg
+
+----
+
+Tags: Acronym,Construction,Vehicle
+
+----
+

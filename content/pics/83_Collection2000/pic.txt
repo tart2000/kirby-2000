@@ -14,7 +14,7 @@ Country: France
 
 ----
 
-Featured: false
+Featured: true
 
 ----
 

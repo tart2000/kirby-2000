@@ -1,0 +1,42 @@
+Title: Studio 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 14
+
+----
+
+Type: leisure
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Studio_2000_Marseille.jpg
+
+----
+
+Tags: Office
+
+----
+

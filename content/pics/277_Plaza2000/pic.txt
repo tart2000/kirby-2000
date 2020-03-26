@@ -1,0 +1,42 @@
+Title: Plaza 2000
+
+----
+
+Year: 2017
+
+----
+
+City: Laval
+
+----
+
+Country: Canada
+
+----
+
+Credits: Xiaojian Ma
+
+----
+
+Page: 34
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- plaza_2000_2_Quebec.jpg
+
+----
+
+Tags: Car,Shop,Sign
+
+----
+

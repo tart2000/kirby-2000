@@ -1,0 +1,42 @@
+Title: Vision 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Bogotà
+
+----
+
+Country: Colombia
+
+----
+
+Credits: Emmanuel Clain
+
+----
+
+Page: 115
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- vision_2000.jpeg
+
+----
+
+Tags: Shop
+
+----
+

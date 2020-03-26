@@ -1,0 +1,42 @@
+Title: Mécanique Générale 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 109
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- mecanique_generale_2000.jpg
+
+----
+
+Tags: Car,Shop
+
+----
+

@@ -1,0 +1,42 @@
+Title: Garage V2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 88
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Garage_V2000.jpg
+
+----
+
+Tags: Car,Shop
+
+----
+

@@ -1,0 +1,43 @@
+Title: Royal Air 2000
+
+----
+
+Year: 2018
+
+----
+
+City: L'Isle sur la Sorgue
+
+----
+
+Country: France
+
+----
+
+Page: 44
+
+----
+
+Featured: true
+
+----
+
+Tags: Fun
+
+----
+
+Cover:
+
+- Royal_Air_2000.jpg
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: leisure
+
+----
+
+Status: open

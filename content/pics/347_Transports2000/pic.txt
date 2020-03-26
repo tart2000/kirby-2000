@@ -1,0 +1,42 @@
+Title: Transports 2000
+
+----
+
+Year: 2012
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 69
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Transport 2000.JPG
+
+----
+
+Tags: Transport,Vehicle
+
+----
+

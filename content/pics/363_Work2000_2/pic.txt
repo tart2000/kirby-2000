@@ -1,0 +1,42 @@
+Title: Work 2000
+
+----
+
+Year: 2004
+
+----
+
+City: Lyon
+
+----
+
+Country: France
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 72
+
+----
+
+Type: office
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- Work 2000.JPG
+
+----
+
+Tags: Closed,Office
+
+----
+

@@ -1,0 +1,38 @@
+Title: Medika M2000
+
+----
+
+Year: 2017
+
+----
+
+City: Sofia
+
+----
+
+Country: Bulgaria
+
+----
+
+Credits: Bogidar Bakalov
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Medika_m2000_Sofia_Bulgaria_2017-12-25_ Bogidar_Bakalov.jpg
+
+----
+
+Tags: Health,Shop
+
+----
+

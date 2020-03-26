@@ -1,0 +1,42 @@
+Title: Pizza 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Venise
+
+----
+
+Country: Italy
+
+----
+
+Credits: Emma Souharce
+
+----
+
+Page: 56
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- pizza_2000_Venize.JPG
+
+----
+
+Tags: Restaurant,Food
+
+----
+

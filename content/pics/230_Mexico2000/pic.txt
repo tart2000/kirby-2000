@@ -1,0 +1,42 @@
+Title: Mexico 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Brooklyn
+
+----
+
+Country: USA
+
+----
+
+Credits: unknown
+
+----
+
+Page: 20
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Mexico_2000_NYC_2019-04-03.jpg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

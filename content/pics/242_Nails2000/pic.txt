@@ -1,0 +1,38 @@
+Title: Nails 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Lubbock
+
+----
+
+Country: USA
+
+----
+
+Credits: Joni Johnson
+
+----
+
+Type: shop
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- nails_2000_texas.jpg
+
+----
+
+Tags: Beauty,Shop
+
+----
+

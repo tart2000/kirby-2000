@@ -1,0 +1,42 @@
+Title: Paris 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Page: 66
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- Paris_2000_2016-12-07_Gmaps.jpg
+
+----
+
+Tags: Night,Bar
+
+----
+

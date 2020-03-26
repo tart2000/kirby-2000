@@ -1,0 +1,42 @@
+Title: Kebab 2000
+
+----
+
+Year: 2016
+
+----
+
+City: Mulhouse
+
+----
+
+Country: France
+
+----
+
+Credits: Animelo
+
+----
+
+Page: 99
+
+----
+
+Type: restaurant
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- kebab2000_Animelo_Twitter.jpg
+
+----
+
+Tags: Restaurant,Food
+
+----
+

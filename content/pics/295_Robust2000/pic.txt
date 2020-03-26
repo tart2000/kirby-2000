@@ -1,0 +1,43 @@
+Title: Robust 2000
+
+----
+
+Year: 2013
+
+----
+
+City: unknown
+
+----
+
+Country: France
+
+----
+
+Page: 110
+
+----
+
+Featured: false
+
+----
+
+Tags: Vehicle, Outdoors
+
+----
+
+Cover:
+
+- Robust_2000.JPG
+
+----
+
+Credits: Quentin Lannes
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown

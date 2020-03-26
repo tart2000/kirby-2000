@@ -1,0 +1,42 @@
+Title: Pizza 2000
+
+----
+
+Year: 2011
+
+----
+
+City: Guadeloupe
+
+----
+
+Country: France
+
+----
+
+Credits: unknown
+
+----
+
+Page: 84
+
+----
+
+Type: restaurant
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- pizza2000.jpg
+
+----
+
+Tags: Closed,Restaurant,Sign
+
+----
+

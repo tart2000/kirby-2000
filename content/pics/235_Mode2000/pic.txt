@@ -1,0 +1,42 @@
+Title: Mode 2000
+
+----
+
+Year: 2004
+
+----
+
+City: Paris
+
+----
+
+Country: France
+
+----
+
+Credits: Briçou
+
+----
+
+Page: 73
+
+----
+
+Type: shop
+
+----
+
+Status: closed
+
+----
+
+Cover: 
+
+- mode_2000.jpg
+
+----
+
+Tags: Closed,Shop
+
+----
+

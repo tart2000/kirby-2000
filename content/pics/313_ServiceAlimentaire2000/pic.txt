@@ -1,0 +1,42 @@
+Title: Service Alimentaire 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 77
+
+----
+
+Type: vehicle
+
+----
+
+Status: unknown
+
+----
+
+Cover: 
+
+- Service_alimentaire_2000.jpg
+
+----
+
+Tags: Vehicle,Food
+
+----
+

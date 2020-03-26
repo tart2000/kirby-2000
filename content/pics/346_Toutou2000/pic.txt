@@ -1,0 +1,43 @@
+Title: Toutou 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Marseille
+
+----
+
+Country: France
+
+----
+
+Page: 102
+
+----
+
+Featured: true
+
+----
+
+Tags: Shop, Closed, Beauty
+
+----
+
+Cover:
+
+- Toutou_2000.jpg
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Type: shop
+
+----
+
+Status: unknown

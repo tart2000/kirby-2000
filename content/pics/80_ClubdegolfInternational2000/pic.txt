@@ -14,11 +14,25 @@ Country: Canada
 
 ----
 
-Credits: Arthur Schmitt
+Page: 40
 
 ----
 
-Page: 40
+Featured: true
+
+----
+
+Tags: Sport, Outdoors
+
+----
+
+Cover:
+
+- club_de_golf_2000.jpg
+
+----
+
+Credits: Arthur Schmitt
 
 ----
 
@@ -27,16 +41,3 @@ Type: leisure
 ----
 
 Status: unknown
-
-----
-
-Cover: 
-
-- club_de_golf_2000.jpg
-
-----
-
-Tags: Sport,Outdoors
-
-----
-

@@ -1,0 +1,43 @@
+Title: Locarno 2000
+
+----
+
+Year: 2013
+
+----
+
+City: Zurich
+
+----
+
+Country: Switzerland
+
+----
+
+Page: 15
+
+----
+
+Featured: true
+
+----
+
+Tags: Neon, Bar
+
+----
+
+Cover:
+
+- Locarno_2000.JPG
+
+----
+
+Credits: Quentin Lannes
+
+----
+
+Type: restaurant
+
+----
+
+Status: unknown

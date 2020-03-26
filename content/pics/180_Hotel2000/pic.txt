@@ -1,0 +1,42 @@
+Title: Hotel 2000
+
+----
+
+Year: 2018
+
+----
+
+City: Istambul
+
+----
+
+Country: Turkey
+
+----
+
+Credits: Booking
+
+----
+
+Page: 117
+
+----
+
+Type: other
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- hotel_2000_Istambul_turkey_booking_2018.jpg
+
+----
+
+Tags: Business,Travel
+
+----
+

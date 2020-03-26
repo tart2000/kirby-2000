@@ -1,0 +1,43 @@
+Title: Tourbillon 2000
+
+----
+
+Year: 2019
+
+----
+
+City: Cannes
+
+----
+
+Country: France
+
+----
+
+Page: 23
+
+----
+
+Featured: true
+
+----
+
+Tags: Fun
+
+----
+
+Cover:
+
+- tourbillon_2000_Cannes_Bricou.JPG
+
+----
+
+Credits: Briçou
+
+----
+
+Type: leisure
+
+----
+
+Status: open

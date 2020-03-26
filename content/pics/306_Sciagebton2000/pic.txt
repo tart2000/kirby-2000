@@ -1,0 +1,42 @@
+Title: Sciage béton 2000
+
+----
+
+Year: 2014
+
+----
+
+City: Montréal
+
+----
+
+Country: Canada
+
+----
+
+Credits: Arthur Schmitt
+
+----
+
+Page: 77
+
+----
+
+Type: vehicle
+
+----
+
+Status: open
+
+----
+
+Cover: 
+
+- sciage_beton_2000.jpg
+
+----
+
+Tags: Construction
+
+----
+

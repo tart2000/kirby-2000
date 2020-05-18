@@ -14,11 +14,25 @@ Country: France
 
 ----
 
-Credits: Thomas Thibault
+Page: 33
 
 ----
 
-Page: 33
+Featured: false
+
+----
+
+Tags: Product
+
+----
+
+Cover:
+
+- lesbo_2000_2.jpg
+
+----
+
+Credits: Thomas Thibault
 
 ----
 
@@ -27,16 +41,3 @@ Type: product
 ----
 
 Status: unknown
-
-----
-
-Cover: 
-
-- lesbo_2000.jpeg
-
-----
-
-Tags: Product
-
-----
-

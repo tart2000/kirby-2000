@@ -25,13 +25,24 @@
 
 			<div class="grid-sizer col-md-6 col-lg-3"></div>
 
+			<!-- check nombre pour caler pub du bouquin --> 
+			<?php if ($count % 20 == 0) : ?>
+				<div class="grid-item col-md-6 col-lg-3">
+					<div class="grid-item-content">
+						<a href="https://www.paypal.com/pools/c/8niAHn8yLV" target="_blank">
+							<img src="<?php echo $site->url() ?>/assets/mockup_final_web.jpg" class="img-fluid">
+						</a>
+					</div>
+				</div>
+			<?php endif ?>
+
 			<div class="grid-item <?= $makebig ?>">
 				<div class="grid-item-content">
 					<a href="<?= $pic->url() ?>">
 						<img src="<?= $thumb ?>" class="img-fluid" alt="<?= $pic->title() ?>">
 					</a>
 				</div>
-			</div><!-- end card -->
+			</div><!-- end card -->				
 			
 			<?php $count++ ?> 
 		<?php endforeach ?>
@@ -59,7 +70,7 @@
 			  	<!-- next page--> 
 			  	<?php if ($pagination->pagination()->hasNextPage()) : ?>
 				  	<li class="page-item <?= e($pagination->pagination()->hasNextPage(), '', 'disabled') ?>">
-				      <a class="page-link" href="<?= $pagination->pagination()->nextPageURL() ?>">Next ›</a>
+				      <a class="page-link next" href="<?= $pagination->pagination()->nextPageURL() ?>">Next ›</a>
 				    </li>
 				<?php endif ?>
 

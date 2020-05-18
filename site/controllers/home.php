@@ -3,7 +3,7 @@
 return function($page) {
 
   // population 
-  $population = 30;
+  $population = 40;
 
   // fetch the basic set of pages
   $pics = $pics = page('pics')->children()->listed();

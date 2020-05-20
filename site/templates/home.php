@@ -2,6 +2,14 @@
 
 <!-- check controllers for PHP --> 
 
+<?php if ($country != '' || $tag != '' || $year != '') : ?>
+	<div class="container-fluid pl-5 mt-4">
+		<h3>
+			<a href="<?= $site->url() ?>" class="badge badge-pill badge-dark"><?= $country.$tag.$year ?> ✖</a>
+		</h3>	
+	</div>
+<?php endif ?>
+
 <div class="container-fluid">
 	<div class="grid mt-5">
 		<!-- used to check if first for sizer -->

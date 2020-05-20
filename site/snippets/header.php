@@ -17,6 +17,21 @@
   <!-- The title tag we show the title of our site and the title of the current page -->
   <title><?= $site->title() ?> | <?= $page->title() ?></title>
 
+  <meta name="description" content="Collecting everything 2000">
+  <meta name="keywords" content="Photography, Vintage, 2000, Fast food, International">
+  <meta name="author" content="Arthur Schmitt AKA tart2000">
+
+  <!-- Meta tags for sharing -->
+  <meta property="og:title" content="<?= $site->title() ?>">
+  <meta property="og:description" content="Collecting everything 2000">
+  <meta property="og:image" content="<?= $site->url() ?>/assets/2000_socials.jpg">
+  <meta property="og:url" content="http://2000.photos">
+
+  <meta name="twitter:title" content="<?= $site->title() ?>">
+  <meta name="twitter:description" content="Collecting everything 2000">
+  <meta name="twitter:image" content="<?= $site->url() ?>/assets/2000_socials.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
 
@@ -115,7 +130,7 @@
 	        </div>
 	    </li>
 	   	<li class="nav-item">
-	        <a class="ml-3 btn btn-outline-dark" href="" target="_blank">Submit</a>
+	        <a class="ml-3 btn btn-outline-dark" href="https://airtable.com/shrXgXpVFSYcA8UVr" target="_blank">Submit</a>
 	    </li>
 
 	    <!-- 

@@ -11,7 +11,7 @@
 	<div class="row">
 		<div class="d-none d-lg-block col-md-2 align-self-center">
 			<?php if ($page->hasPrev()) : ?>
-				<a href="<?= $page->prev()->url() ?>">
+				<a href="<?= $page->prev()->url() ?>" class="float-right">
 					<img src="<?= $site->url() ?>/assets/arrow_left.png" class="img-fluid">
 				</a>
 			<?php endif ?>

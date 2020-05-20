@@ -26,6 +26,6 @@ return function($page) {
   // apply pagination
   $pagination = $pics->paginate($population);
 
-  return compact('pics', 'tags', 'tag', 'pagination', 'population');
+  return compact('pics', 'tags', 'tag', 'pagination', 'population', 'country', 'year');
 
 };

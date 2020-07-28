@@ -22,6 +22,22 @@ fields:
     label: Double size?
     type: toggle
     width: 1/2
+  Credits: 
+    label: Credits 
+    type: text 
+    width: 1/2
+  Type: 
+    label: Type 
+    type: select 
+    width: 1/2
+    options: 
+      leisure: Leisure 
+      office: Office
+      product: Product 
+      restaurant: Restaurant
+      shop: Shop
+      vehicle: Vehicle
+      other: Other
   Tags: 
     label: Tags
     type: tags 

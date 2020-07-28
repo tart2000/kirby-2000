@@ -15,6 +15,7 @@
 		<!-- used to check if first for sizer -->
 		<?php $count = 1 ?>
 		
+		<!-- boucle pour générer les images -->
 		<?php foreach ($pagination as $pic) : ?>
 
 			<?php $makebig = 'col-md-6 col-lg-3' ?>
@@ -31,6 +32,7 @@
 				])->url() ?>
 			<?php endif ?>
 
+			<!-- Juste là pour caler la taille de la grille -->
 			<div class="grid-sizer col-md-6 col-lg-3"></div>
 
 			<!-- check nombre pour caler pub du bouquin --> 

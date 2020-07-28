@@ -23,6 +23,11 @@ return function($page) {
     $pics = $pics->filterBy('year', $year, ',');
   }
 
+  // add credits filter
+  if ($credits = urldecode(param('credits'))) {
+    $pics = $pics->filterBy('credits', $credits, ',');
+  }
+
   // apply pagination
   $pagination = $pics->paginate($population);
 

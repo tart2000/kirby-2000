@@ -50,7 +50,11 @@
 				<?php endif ?>
 
 				<?php if ($page->credits() != '') : ?>
-					<b>Credits:</b> <?= $page->credits() ?><br>
+					<b>Credits:</b> 
+					<a href="<?= $site->url() ?>/credits:<?= urlencode($page->credits()) ?>">
+						<?= $page->credits() ?>
+					</a>
+					<br>
 				<?php endif ?>
 
 				<?php if($user = $site->user()): ?>

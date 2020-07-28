@@ -35,10 +35,10 @@
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
 
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png">
-  <link rel="manifest" href="assets/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="<?= $site->url() ?>/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="<?= $site->url() ?>/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="<?= $site->url() ?>/assets/favicon-16x16.png">
+  <link rel="manifest" href="<?= $site->url() ?>/assets/site.webmanifest">
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
